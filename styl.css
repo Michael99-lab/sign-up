@@ -1,0 +1,63 @@
+body{
+    background-image: linear-gradient( rgb(77, 194, 240), rgb(150, 238, 150));
+    margin: 0;
+    padding-top:30px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    height:100vh;
+    overflow: hidden;
+ 
+
+}
+
+
+
+.container{
+    width: 500px;
+    height: 500px;
+    background-color:white;
+    border-radius: 10px;
+    margin: 0 auto;
+    margin-top: 140px;
+    
+}
+
+form input{
+margin-top:10px;
+height: 25px;
+width: 300px;
+padding: 15px;
+background-color: rgb(243, 245, 243);
+border: 1px solid rgb(238, 236, 236);
+
+}
+
+
+#content{
+    color: rgb(82, 143, 82);
+    text-align: center;
+    height:100%;
+    width:100%;
+    padding-top:60px;
+
+}
+
+
+button{
+    margin-top: 30px;
+    padding: 10px;
+    border-radius: 50px;
+    width: 160px;
+    border: none;
+}
+
+.signup{
+    margin-right: 5px;
+    background-image: linear-gradient(to right, rgb(150, 238, 150), rgb(77, 194, 240));
+    color: white;
+    font-weight: bold;
+
+}
+
+.signin{
+    margin-left:5px;
+}
